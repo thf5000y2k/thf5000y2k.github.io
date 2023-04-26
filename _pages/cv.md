@@ -11,6 +11,7 @@ redirect_from:
 
 Education
 ======
+
 * B.Eng in Guangzhou University, 2023
 
 # Honors & Awards
@@ -18,7 +19,6 @@ Education
 * **Dean's List**, Guangzhou University, top 2.5% of all students, 2020, 2021, 2022, 2023
 * **The First-class Scholarship**, Guangzhou University, top 2.5% of all students, 2020, 2021, 2022, 2023
 * **The Third Price in National Student Computer System Capability Challenge**, 08/2021
-* **Student Member** of China Computer Federation (CCF)
 
 Research Experience
 ======
