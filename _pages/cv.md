@@ -12,13 +12,13 @@ redirect_from:
 Education
 ======
 * B.Eng in Guangzhou University, 2023
-* MPhil in Hong Kong University of Science and Technology, 2025(expected)
 
 # Honors & Awards
 
 * **Dean's List**, Guangzhou University, top 2.5% of all students, 2020, 2021, 2022, 2023
 * **The First-class Scholarship**, Guangzhou University, top 2.5% of all students, 2020, 2021, 2022, 2023
 * **The Third Price in National Student Computer System Capability Challenge**, 08/2021
+* **Student Member** of China Computer Federation (CCF)
 
 Research Experience
 ======
@@ -58,4 +58,4 @@ Publications
 
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* WIP

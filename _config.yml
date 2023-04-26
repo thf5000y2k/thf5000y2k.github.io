@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "You-Liang HUANG"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "You-Liang HUANG"
 description              : &description "personal website"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "You-Liang HUANG"
   avatar           : "profile.png"
-  bio              : "Research assistent at Institute for System Rheology, GZHU\nResearch assistent at DeepSE lab, HKUST"
+  bio              : "Research assistant at Institute for System Rheology, GZHU\nResearch assistant at DeepSE lab, HKUST"
   location         : "Guangzhou, P.R.C"
   employer         :
   pubmed           : 
