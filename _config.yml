@@ -72,10 +72,11 @@ social:
 
 
 # Analytics
+# See '_include/google-analytics-tag.html' and '_layouts/default.html' for details
 analytics:
-  provider               :  "google-analytics" # false (default), "google", "google-universal", "google-analytics", "custom"
-  google-analytics:
-    tracking_id          : "G-M7X0PMBH1N"
+  provider               :  "custom" # false (default), "google", "google-universal", "google-analytics", "custom"
+  google:
+    tracking_id          : 
 
 
 # Site Author
